@@ -79,7 +79,7 @@ img{
     background-position: center top;
 }
 #home{
-    background-image: url("https://github.com/meme-ron/sandwich-sample/blob/main/PALMhome.png?raw=true");
+    background-image: url("https://github.com/meme-ron/sandwich-sample/blob/main/PALMhome.png");
     min-height: 100vh;
 }
 #home .page-title{
@@ -88,7 +88,7 @@ img{
 /*News
 -----------*/
 #news{
-    background-image: url("https://github.com/meme-ron/sandwich-sample/blob/main/sandwich-news-2.png?raw=true");
+    background-image: url("https://github.com/meme-ron/sandwich-sample/blob/main/sandwich-news-2.png");
     height: 270px;
     margin-bottom: 40px;
 }
@@ -294,7 +294,7 @@ aside p{
 /* MENU
 ------------- */
 #menu {
-    background-image: url("https://github.com/meme-ron/sandwich-sample/blob/main/MENUhome.png?raw=true");
+    background-image: url("https://github.com/meme-ron/sandwich-sample/blob/main/MENUhome.png");
     min-height: 100vh;
 
 }
@@ -323,7 +323,7 @@ aside p{
 /* CONTACT
 ------------- */
 #contact {
-    background-image: url("https://github.com/meme-ron/sandwich-sample/blob/main/contact-top-img.jpg?raw=true");
+    background-image: url("https://github.com/meme-ron/sandwich-sample/blob/main/contact-top-img.jpg");
     min-height: 100vh;
 }
 
